@@ -1,0 +1,350 @@
+2023-09-20 15:00:59,830 - WARNING -  * Debugger is active!
+2023-09-20 15:00:59,844 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:01:12,915 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-20 15:01:12,915 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-20 15:01:12,970 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:01:18,176 - WARNING -  * Debugger is active!
+2023-09-20 15:01:18,188 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:01:31,009 - INFO - 127.0.0.1 - - [20/Sep/2023 15:01:31] "[31m[1mGET /prediction HTTP/1.1[0m" 405 -
+2023-09-20 15:01:35,970 - INFO - 127.0.0.1 - - [20/Sep/2023 15:01:35] "GET / HTTP/1.1" 200 -
+2023-09-20 15:01:45,999 - INFO - hii i am priyanshu    
+2023-09-20 15:01:46,110 - INFO - 127.0.0.1 - - [20/Sep/2023 15:01:46] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:01:46,427 - INFO - 127.0.0.1 - - [20/Sep/2023 15:01:46] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:01:46,466 - INFO - 127.0.0.1 - - [20/Sep/2023 15:01:46] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:01:46,503 - INFO - 127.0.0.1 - - [20/Sep/2023 15:01:46] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:01:46,542 - INFO - 127.0.0.1 - - [20/Sep/2023 15:01:46] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:03:25,862 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:03:25,863 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:03:25,863 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:03:25,865 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:03:25,865 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:03:25,865 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:03:25,866 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:03:26,402 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:03:33,586 - WARNING -  * Debugger is active!
+2023-09-20 15:03:33,607 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:03:34,423 - WARNING -  * Debugger is active!
+2023-09-20 15:03:34,436 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:03:34,493 - INFO - 127.0.0.1 - - [20/Sep/2023 15:03:34] "GET / HTTP/1.1" 200 -
+2023-09-20 15:03:43,076 - INFO - hii am priyanshu
+2023-09-20 15:03:43,082 - INFO - 
+2023-09-20 15:03:43,200 - INFO - 127.0.0.1 - - [20/Sep/2023 15:03:43] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:03:43,524 - INFO - 127.0.0.1 - - [20/Sep/2023 15:03:43] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:03:43,562 - INFO - 127.0.0.1 - - [20/Sep/2023 15:03:43] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:03:43,636 - INFO - 127.0.0.1 - - [20/Sep/2023 15:03:43] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:06:34,139 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:06:34,139 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:06:34,140 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:06:34,140 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:06:34,141 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:06:34,142 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:06:35,674 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:06:41,873 - WARNING -  * Debugger is active!
+2023-09-20 15:06:41,909 - WARNING -  * Debugger is active!
+2023-09-20 15:06:41,910 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:06:41,929 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:06:42,008 - INFO - 127.0.0.1 - - [20/Sep/2023 15:06:42] "GET / HTTP/1.1" 200 -
+2023-09-20 15:06:51,189 - INFO -     priyans
+2023-09-20 15:06:51,200 - INFO - 
+2023-09-20 15:06:51,294 - INFO - 127.0.0.1 - - [20/Sep/2023 15:06:51] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:06:51,616 - INFO - 127.0.0.1 - - [20/Sep/2023 15:06:51] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:06:51,627 - INFO - 127.0.0.1 - - [20/Sep/2023 15:06:51] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:06:51,665 - INFO - 127.0.0.1 - - [20/Sep/2023 15:06:51] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:08:46,721 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:08:46,723 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:08:46,724 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:08:46,724 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:08:48,257 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:08:54,075 - WARNING -  * Debugger is active!
+2023-09-20 15:08:54,102 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:08:54,150 - WARNING -  * Debugger is active!
+2023-09-20 15:08:54,169 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:08:54,246 - INFO - 127.0.0.1 - - [20/Sep/2023 15:08:54] "GET / HTTP/1.1" 200 -
+2023-09-20 15:09:04,443 - INFO -  hii i am priyanshu   
+2023-09-20 15:09:04,526 - INFO - 127.0.0.1 - - [20/Sep/2023 15:09:04] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:09:04,864 - INFO - 127.0.0.1 - - [20/Sep/2023 15:09:04] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:09:04,876 - INFO - 127.0.0.1 - - [20/Sep/2023 15:09:04] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:09:04,905 - INFO - 127.0.0.1 - - [20/Sep/2023 15:09:04] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:10:25,002 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:10:25,003 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:10:25,004 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:10:25,004 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:10:25,005 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:10:25,006 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:10:25,867 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:10:31,771 - WARNING -  * Debugger is active!
+2023-09-20 15:10:31,790 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:10:31,904 - WARNING -  * Debugger is active!
+2023-09-20 15:10:31,939 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:10:32,038 - INFO -  hii i am priyanshu   
+2023-09-20 15:10:32,041 - INFO - [[0. 0. 0. ... 0. 0. 0.]]
+2023-09-20 15:10:32,109 - INFO - 127.0.0.1 - - [20/Sep/2023 15:10:32] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:10:32,411 - INFO - 127.0.0.1 - - [20/Sep/2023 15:10:32] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:10:32,467 - INFO - 127.0.0.1 - - [20/Sep/2023 15:10:32] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:10:32,517 - INFO - 127.0.0.1 - - [20/Sep/2023 15:10:32] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:10:32,570 - INFO - 127.0.0.1 - - [20/Sep/2023 15:10:32] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:10:37,189 - INFO - 127.0.0.1 - - [20/Sep/2023 15:10:37] "GET / HTTP/1.1" 200 -
+2023-09-20 15:10:47,929 - INFO -     hii i am priyanshu
+2023-09-20 15:10:47,932 - INFO - [[0. 0. 0. ... 0. 0. 0.]]
+2023-09-20 15:10:48,038 - INFO - 127.0.0.1 - - [20/Sep/2023 15:10:48] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:10:48,090 - INFO - 127.0.0.1 - - [20/Sep/2023 15:10:48] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:10:48,133 - INFO - 127.0.0.1 - - [20/Sep/2023 15:10:48] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:10:48,201 - INFO - 127.0.0.1 - - [20/Sep/2023 15:10:48] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:13:09,156 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:13:09,156 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:13:09,158 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:13:09,159 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:13:10,697 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:13:16,499 - WARNING -  * Debugger is active!
+2023-09-20 15:13:16,526 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:13:16,896 - WARNING -  * Debugger is active!
+2023-09-20 15:13:16,909 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:13:17,331 - INFO - 127.0.0.1 - - [20/Sep/2023 15:13:17] "GET / HTTP/1.1" 200 -
+2023-09-20 15:13:57,130 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:13:57,134 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:13:57,135 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:13:57,858 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:14:03,750 - WARNING -  * Debugger is active!
+2023-09-20 15:14:03,765 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:14:04,448 - WARNING -  * Debugger is active!
+2023-09-20 15:14:04,460 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:14:10,336 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:14:10,336 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:14:10,338 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:14:10,338 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:14:10,338 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:14:10,339 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:14:11,697 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:14:17,475 - WARNING -  * Debugger is active!
+2023-09-20 15:14:17,489 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:14:17,871 - WARNING -  * Debugger is active!
+2023-09-20 15:14:17,882 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:14:22,963 - INFO -  hii i am oriyanshu  
+2023-09-20 15:14:23,010 - INFO - [[0. 0. 0. ... 0. 0. 0.]]
+2023-09-20 15:14:23,086 - INFO - 127.0.0.1 - - [20/Sep/2023 15:14:23] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:14:23,386 - INFO - 127.0.0.1 - - [20/Sep/2023 15:14:23] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:14:23,434 - INFO - 127.0.0.1 - - [20/Sep/2023 15:14:23] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:14:23,468 - INFO - 127.0.0.1 - - [20/Sep/2023 15:14:23] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:15:05,118 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-20 15:15:05,119 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-20 15:15:05,150 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:15:10,602 - WARNING -  * Debugger is active!
+2023-09-20 15:15:10,613 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:15:48,973 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:15:48,976 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:15:48,977 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:15:48,978 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:15:48,979 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:15:48,979 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:15:48,980 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:15:48,982 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:15:49,516 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:15:58,698 - WARNING -  * Debugger is active!
+2023-09-20 15:15:58,719 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:15:59,566 - WARNING -  * Debugger is active!
+2023-09-20 15:15:59,581 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:16:25,375 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-20 15:16:25,375 - INFO - [33mPress CTRL+C to quit[0m
+2023-09-20 15:16:25,411 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:16:29,246 - WARNING -  * Debugger is active!
+2023-09-20 15:16:29,258 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:16:50,509 - INFO - 127.0.0.1 - - [20/Sep/2023 15:16:50] "GET / HTTP/1.1" 200 -
+2023-09-20 15:17:00,937 - INFO - hii i am priyanshu  
+2023-09-20 15:17:00,987 - INFO - [[0. 0. 0. ... 0. 0. 0.]]
+2023-09-20 15:17:01,050 - INFO - 127.0.0.1 - - [20/Sep/2023 15:17:01] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:17:01,341 - INFO - 127.0.0.1 - - [20/Sep/2023 15:17:01] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:17:01,349 - INFO - 127.0.0.1 - - [20/Sep/2023 15:17:01] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:17:01,394 - INFO - 127.0.0.1 - - [20/Sep/2023 15:17:01] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:17:56,806 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:17:56,806 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:17:56,808 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:17:56,809 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:17:56,810 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:17:58,309 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:18:03,777 - WARNING -  * Debugger is active!
+2023-09-20 15:18:03,794 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:18:03,911 - INFO - 127.0.0.1 - - [20/Sep/2023 15:18:03] "GET / HTTP/1.1" 200 -
+2023-09-20 15:18:04,241 - WARNING -  * Debugger is active!
+2023-09-20 15:18:04,252 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:18:21,098 - INFO - this is i neuron  
+2023-09-20 15:18:21,151 - INFO - [[0. 0. 0. ... 0. 0. 0.]]
+2023-09-20 15:18:21,152 - INFO - [[0 0 0 0 0 0]]
+2023-09-20 15:18:21,240 - INFO - 127.0.0.1 - - [20/Sep/2023 15:18:21] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:18:21,497 - INFO - 127.0.0.1 - - [20/Sep/2023 15:18:21] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:18:21,539 - INFO - 127.0.0.1 - - [20/Sep/2023 15:18:21] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:18:21,574 - INFO - 127.0.0.1 - - [20/Sep/2023 15:18:21] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:20:59,524 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:20:59,525 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:20:59,525 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:20:59,526 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:21:00,630 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:21:07,792 - WARNING -  * Debugger is active!
+2023-09-20 15:21:07,818 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:21:07,921 - WARNING -  * Debugger is active!
+2023-09-20 15:21:07,943 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:21:11,371 - INFO - 127.0.0.1 - - [20/Sep/2023 15:21:11] "GET / HTTP/1.1" 200 -
+2023-09-20 15:21:20,649 - INFO -  hii am priyanshu   
+2023-09-20 15:21:20,706 - INFO - 127.0.0.1 - - [20/Sep/2023 15:21:20] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:21:21,028 - INFO - 127.0.0.1 - - [20/Sep/2023 15:21:21] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:21:21,049 - INFO - 127.0.0.1 - - [20/Sep/2023 15:21:21] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:21:21,095 - INFO - 127.0.0.1 - - [20/Sep/2023 15:21:21] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:22:03,827 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:03,827 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:03,828 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:03,828 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:03,829 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:03,829 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:03,830 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:03,831 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:05,426 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:22:11,041 - WARNING -  * Debugger is active!
+2023-09-20 15:22:11,058 - WARNING -  * Debugger is active!
+2023-09-20 15:22:11,058 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:22:11,075 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:22:11,144 - INFO - 127.0.0.1 - - [20/Sep/2023 15:22:11] "GET / HTTP/1.1" 200 -
+2023-09-20 15:22:23,575 - INFO - 127.0.0.1 - - [20/Sep/2023 15:22:23] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:22:23,856 - INFO - 127.0.0.1 - - [20/Sep/2023 15:22:23] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:22:23,876 - INFO - 127.0.0.1 - - [20/Sep/2023 15:22:23] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:22:23,947 - INFO - 127.0.0.1 - - [20/Sep/2023 15:22:23] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:22:43,025 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:43,025 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:43,026 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:43,026 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:43,027 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:43,028 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:43,028 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:22:44,339 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:22:50,740 - WARNING -  * Debugger is active!
+2023-09-20 15:22:50,766 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:22:50,819 - WARNING -  * Debugger is active!
+2023-09-20 15:22:50,842 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:22:50,893 - INFO - 127.0.0.1 - - [20/Sep/2023 15:22:50] "POST /prediction HTTP/1.1" 200 -
+2023-09-20 15:32:56,164 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:32:56,165 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:32:56,165 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:32:56,166 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:32:56,166 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:32:56,167 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:32:57,387 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:33:01,920 - WARNING -  * Debugger is active!
+2023-09-20 15:33:01,920 - WARNING -  * Debugger is active!
+2023-09-20 15:33:01,934 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:33:01,935 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:33:02,060 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:02] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:33:02,316 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:02] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:33:02,318 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:02] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:33:02,358 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:02] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:33:02,385 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:02] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:33:13,128 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:13] "GET / HTTP/1.1" 200 -
+2023-09-20 15:33:19,542 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:19] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:33:19,588 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:19] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:33:19,600 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:19] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:33:19,623 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:19] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:33:31,278 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:33:31,279 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:33:31,281 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:33:31,721 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:33:36,926 - WARNING -  * Debugger is active!
+2023-09-20 15:33:36,934 - WARNING -  * Debugger is active!
+2023-09-20 15:33:36,940 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:33:36,947 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:33:37,618 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:37] "GET / HTTP/1.1" 200 -
+2023-09-20 15:33:42,973 - INFO - 127.0.0.1 - - [20/Sep/2023 15:33:42] "POST /prediction HTTP/1.1" 200 -
+2023-09-20 15:34:08,223 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:08,224 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:08,224 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:08,224 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:08,225 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:08,225 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:08,226 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:08,226 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:08,714 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:34:13,543 - WARNING -  * Debugger is active!
+2023-09-20 15:34:13,549 - WARNING -  * Debugger is active!
+2023-09-20 15:34:13,555 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:34:13,561 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:34:13,792 - INFO - 127.0.0.1 - - [20/Sep/2023 15:34:13] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:34:14,032 - INFO - 127.0.0.1 - - [20/Sep/2023 15:34:14] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:34:14,036 - INFO - 127.0.0.1 - - [20/Sep/2023 15:34:14] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:34:14,071 - INFO - 127.0.0.1 - - [20/Sep/2023 15:34:14] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:34:14,101 - INFO - 127.0.0.1 - - [20/Sep/2023 15:34:14] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:34:35,385 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:35,387 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:35,387 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:34:36,469 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:34:40,998 - WARNING -  * Debugger is active!
+2023-09-20 15:34:41,012 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:34:41,028 - WARNING -  * Debugger is active!
+2023-09-20 15:34:41,043 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:34:41,167 - INFO - 127.0.0.1 - - [20/Sep/2023 15:34:41] "[35m[1mPOST /prediction HTTP/1.1[0m" 500 -
+2023-09-20 15:34:41,400 - INFO - 127.0.0.1 - - [20/Sep/2023 15:34:41] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-09-20 15:34:41,402 - INFO - 127.0.0.1 - - [20/Sep/2023 15:34:41] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-09-20 15:34:41,447 - INFO - 127.0.0.1 - - [20/Sep/2023 15:34:41] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:34:41,471 - INFO - 127.0.0.1 - - [20/Sep/2023 15:34:41] "[36mGET /prediction?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-09-20 15:35:24,331 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:35:24,332 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:35:24,332 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:35:24,334 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:35:24,334 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:35:24,889 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:35:29,214 - WARNING -  * Debugger is active!
+2023-09-20 15:35:29,231 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:35:29,323 - WARNING -  * Debugger is active!
+2023-09-20 15:35:29,334 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:35:35,341 - INFO - 127.0.0.1 - - [20/Sep/2023 15:35:35] "GET / HTTP/1.1" 200 -
+2023-09-20 15:35:58,484 - INFO - 127.0.0.1 - - [20/Sep/2023 15:35:58] "POST /prediction HTTP/1.1" 200 -
+2023-09-20 15:36:21,098 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:21,099 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:21,099 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:21,100 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:22,352 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:36:26,585 - WARNING -  * Debugger is active!
+2023-09-20 15:36:26,600 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:36:26,652 - WARNING -  * Debugger is active!
+2023-09-20 15:36:26,665 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:36:28,901 - INFO - 127.0.0.1 - - [20/Sep/2023 15:36:28] "POST /prediction HTTP/1.1" 200 -
+2023-09-20 15:36:37,135 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:37,135 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:37,135 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:37,136 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:37,137 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:37,137 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:37,137 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:37,137 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:36:38,104 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:36:42,560 - WARNING -  * Debugger is active!
+2023-09-20 15:36:42,572 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:36:42,593 - WARNING -  * Debugger is active!
+2023-09-20 15:36:42,607 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:36:42,685 - INFO - 127.0.0.1 - - [20/Sep/2023 15:36:42] "POST /prediction HTTP/1.1" 200 -
+2023-09-20 15:38:36,527 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:38:36,527 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:38:36,528 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:38:36,528 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:38:36,529 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:38:36,529 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:38:36,530 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:38:36,530 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:38:37,262 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:38:41,944 - WARNING -  * Debugger is active!
+2023-09-20 15:38:41,956 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:38:42,083 - WARNING -  * Debugger is active!
+2023-09-20 15:38:42,094 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:38:42,173 - INFO - 127.0.0.1 - - [20/Sep/2023 15:38:42] "POST /prediction HTTP/1.1" 200 -
+2023-09-20 15:39:48,736 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pandas\\core\\series.py', reloading
+2023-09-20 15:39:48,736 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\pandas\\core\\series.py', reloading
+2023-09-20 15:39:49,101 - INFO -  * Restarting with watchdog (windowsapi)
+2023-09-20 15:39:53,616 - WARNING -  * Debugger is active!
+2023-09-20 15:39:53,630 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:39:53,823 - WARNING -  * Debugger is active!
+2023-09-20 15:39:53,835 - INFO -  * Debugger PIN: 575-819-509
+2023-09-20 15:40:19,804 - INFO - 127.0.0.1 - - [20/Sep/2023 15:40:19] "POST /prediction HTTP/1.1" 200 -
+2023-09-20 15:44:11,228 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:44:11,229 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:44:11,231 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:44:11,232 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:44:11,232 - INFO -  * Detected change in 'C:\\Users\\Dr. Poonam\\Documents\\Priyanshu Gupta\\Priyanshu Flask\\Toxic Comment Classification\\app.py', reloading
+2023-09-20 15:44:12,201 - INFO -  * Restarting with watchdog (windowsapi)
