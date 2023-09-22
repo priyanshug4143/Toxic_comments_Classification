@@ -4,11 +4,14 @@
 This project focuses on building a Toxic Comment Classification model using Natural Language Processing (NLP) techniques. The goal is to classify text comments into toxic and non-toxic categories. The project achieves a remarkable 95% accuracy using a Support Vector Classifier (SVC) and the Count Vectorization method.
 
 # Key Features
-## High Accuracy: The model achieves a 95% accuracy rate in classifying toxic comments, making it a robust tool for identifying online toxicity.
+## High Accuracy:
+The model achieves a 95% accuracy rate in classifying toxic comments, making it a robust tool for identifying online toxicity.
 
-## Count Vectorization: Text data is transformed into numerical features using the Count Vectorizer, enabling effective model training.
+## Count Vectorization:
+Text data is transformed into numerical features using the Count Vectorizer, enabling effective model training.
 
-## Flask Web App: A user-friendly web application is built to allow real-time toxicity classification of user-input comments.
+## Flask Web App:
+A user-friendly web application is built to allow real-time toxicity classification of user-input comments.
 
 # Getting Started
 ## Prerequisites
